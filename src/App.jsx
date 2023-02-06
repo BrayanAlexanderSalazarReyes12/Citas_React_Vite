@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import Form from "./components/form"
+import Form from "./components/Formulario"
 import Header from "./components/Header"
 import ListadoPacientes from "./components/ListadoPacientes"
 
